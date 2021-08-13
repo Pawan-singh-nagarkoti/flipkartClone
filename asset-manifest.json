@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/flipkartClone/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/flipkartClone/static/js/main.866ea8a6.chunk.js",
+    "main.js.map": "/flipkartClone/static/js/main.866ea8a6.chunk.js.map",
+    "runtime-main.js": "/flipkartClone/static/js/runtime-main.274f6db6.js",
+    "runtime-main.js.map": "/flipkartClone/static/js/runtime-main.274f6db6.js.map",
+    "static/css/2.3572433f.chunk.css": "/flipkartClone/static/css/2.3572433f.chunk.css",
+    "static/js/2.4fa41885.chunk.js": "/flipkartClone/static/js/2.4fa41885.chunk.js",
+    "static/js/2.4fa41885.chunk.js.map": "/flipkartClone/static/js/2.4fa41885.chunk.js.map",
+    "static/js/3.aa57ef3b.chunk.js": "/flipkartClone/static/js/3.aa57ef3b.chunk.js",
+    "static/js/3.aa57ef3b.chunk.js.map": "/flipkartClone/static/js/3.aa57ef3b.chunk.js.map",
+    "index.html": "/flipkartClone/index.html",
+    "static/css/2.3572433f.chunk.css.map": "/flipkartClone/static/css/2.3572433f.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/flipkartClone/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.4fa41885.chunk.js.LICENSE.txt": "/flipkartClone/static/js/2.4fa41885.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/flipkartClone/static/media/revicons.e8746a62.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.274f6db6.js",
+    "static/css/2.3572433f.chunk.css",
+    "static/js/2.4fa41885.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.866ea8a6.chunk.js"
+  ]
+}
